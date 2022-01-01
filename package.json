@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Passwordless Authentication Flow in NestJs projects with TokenChannel.io",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
